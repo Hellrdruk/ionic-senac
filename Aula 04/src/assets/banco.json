@@ -1,0 +1,19 @@
+{
+  "lista": [
+    {
+      "id": 2,
+      "produto": "Macarrão",
+      "quantidade": "2k"
+    },
+    {
+      "id": 4,
+      "produto": "Coração",
+      "quantidade": "3k"
+    },
+    {
+      "produto": "Mamao",
+      "quantidade": "2 ",
+      "id": 5
+    }
+  ]
+}
